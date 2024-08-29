@@ -27,4 +27,4 @@ footer_content: "Copyright &copy; 2024 Philip Müller. Application Icon made by 
 favicon_ico: "/assets/images/favicon.ico"
 
 url: 'https://muelphil.github.io/' # your main domain
-baseurl: 'just-the-docs-template/' # if you're using custom domain keep this blank example: baseurl: ''
+baseurl: 'smartclip/' # if you're using custom domain keep this blank example: baseurl: ''
