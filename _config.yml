@@ -1,0 +1,30 @@
+title: Smartclip
+description: Tool Documentation # TODO
+theme: just-the-docs
+
+# Aux links for the upper right navigation
+aux_links:
+  "Smartclip GitHub Page":
+    - "//github.com/muelphil/smartclip"
+
+# External navigation links
+nav_external_links:
+  - title: Smartclip GitHub Page
+    url: https://github.com/muelphil/smartclip
+
+color_scheme: "dark"
+
+defaults:
+  -
+    scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
+footer_content: "Copyright &copy; 2024 Philip Müller. Application Icon made by Freepik."
+
+favicon_ico: "/assets/images/favicon.ico"
+
+url: 'https://muelphil.github.io/' # your main domain
+baseurl: 'just-the-docs-template/' # if you're using custom domain keep this blank example: baseurl: ''
