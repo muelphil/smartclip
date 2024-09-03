@@ -9,7 +9,13 @@ To install Smartclip head to the [Releases Page of the Github Repository](https:
 
 ## Windows
 
-Simply follow the instructions of the Installer.
+Please note that upon installation you will get prompted with a warning:
+
+<img src="{{ "/assets/images/Windows_Warning.png" | prepend: site.baseurl | prepend: site.url}}"/>
+
+This will go away after a sufficient number of Windows users have installed Smartclip. The only other way for me to stop this message from coming up is paying somewhere around 1000$ to Microsoft for a license, which is currently not an option.
+
+After clicking "Run anyway..." simply follow the instructions of the Installer.
 
 ## Linux
 
