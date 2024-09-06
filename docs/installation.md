@@ -5,7 +5,7 @@ nav_order: 1
 
 # Installation
 
-To install Smartclip head to the [Releases Page of the Github Repository](https://github.com/muelphil/smartclip/releases) and download the latest installer. If you are on Windows, download the `.exe` file, on Linux download the `.deb` file. As of now the source code for Smartclip is not publicly available.
+To install Smartclip head to either the [Website](https://muelphil.github.io/smartclip/) or the [Releases Page of the Github Repository](https://github.com/muelphil/smartclip/releases) and download the latest installer. If you are on Windows, download the `.exe` file, on Linux download the `.deb` file. As of now the source code for Smartclip is not publicly available.
 
 ## Windows
 
