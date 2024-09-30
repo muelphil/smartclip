@@ -9,7 +9,7 @@ Smartclip is a versatile tool designed to streamline workflows by offering quick
 You can find the Documentation [on the Website](https://muelphil.github.io/smartclip/docs/installation.html)
 
 ## Beta
-Smartclip is currently in beta, Version 0.9.0 will be valid until 31/12/2024, I will extend the duration based on the feedback.
+Smartclip is currently in beta, Version 0.9.2 will be valid until 31/03/2025, I will extend the duration based on the feedback.
 
 Smartclip is currently only available for Linux (with restrictions, see section Linux) and Window, but there is a Mac version planned.
 
