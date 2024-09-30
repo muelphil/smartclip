@@ -11,7 +11,7 @@ You can find the Documentation [on the Website](https://muelphil.github.io/smart
 ## Beta
 Smartclip is currently in beta, Version 0.9.2 will be valid until 31/03/2025, I will extend the duration based on the feedback.
 
-Smartclip is currently only available for Linux (with restrictions, see section Linux) and Window, but there is a Mac version planned.
+Smartclip is available for Linux (with restrictions, see section Linux), Window and MacOs.
 
 I greatly appreciate any kind of feedback, feature requests and bug reports. To do so please create an [Github Issue](https://github.com/muelphil/smartclip/issues).
 
