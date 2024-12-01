@@ -1,0 +1,19 @@
+
+Clipboard
+The Clipboard Manager allows users to store and retrieve clipboard entries, enhancing productivity by providing easy access to previously copied items for reuse in text input fields.
+Installed Plugins
+
+Start
+The Start Plugin allows users to quickly search for and start installed applications, as well as locate files within predefined, indexed directories. This plugin streamlines workflow by providing fast and efficient access to essential programs and documents.
+
+Translator
+The Translation Plugin simplifies and accelerates translations with a single shortcut key, allowing users to instantly translate and paste words in various languages. This plugin enhances efficiency, making translation effortless and seamless.
+
+Emoji Picker
+The Emoji Picker Plugin enables users to effortlessly browse and select emojis, enhancing text input fields with a fun and expressive touch. Seamlessly integrated and easy to use, it enriches user interactions within your application.
+
+Remind Me
+The RemindMe Plugin enables users to set reminders effortlessly by typing a date and/or time in natural language followed by a task. This intuitive yet minimalistic plugin simplifies task management, ensuring you never miss anything important.
+
+Math
+The Math Plugin enables users to convert LaTeX input into SVG, PNG, or Unicode math formulas, providing a versatile tool for pasting beautifully rendered mathematical expressions. With support for MathJax and PdfLatex (if installed), this plugin enhances text with precise and visually appealing math content.
