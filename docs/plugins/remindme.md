@@ -14,6 +14,20 @@ simplifies task management, ensuring you never miss anything important.
 ## Setting Reminders
 To set a reminder using this plugin, start by specifying the date and time for the reminder using keywords such as "in," "on," and "at." Follow this with the task you want to be reminded of. You can also choose to separate the time and task with the word "to" for clarity. If you don't specify a time, the reminder will notify you at the next startup of the app. When reminders appear, you can choose to snooze them until the next startup or for a specific number of minutes as defined in the settings.
 
+## Integrating Reminders with Your Calendar
+
+You can add reminders from Smartclip to your external calendar applications, such as those supporting iCalendar files or Google Calendar, using one of the following methods:
+
+1. **Directly When Setting a Reminder**
+  - After prompting a reminder, instead of `Enter` press `Shift` + `Enter` to add it to your external calendar .
+  - You can set your preferred external calendar (iCalendar or Google Calendar) for this action in the **Settings**.
+
+2. **From the Reminder Menu**
+  - Open the **menu** (via the menu button or by right-clicking) on an existing reminder.
+  - Select the option to export or add the reminder to your external calendar.
+
+This allows integration with popular calendar applications for better organization and task management.
+
 ## Supported Time Specifications
 - keyword `in`
     - `in 10 mins and 30 seconds`

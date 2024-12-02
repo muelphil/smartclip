@@ -8,9 +8,9 @@ nav_order: 1
 By downloading and installing Smartclip, you agree to the [Terms of Agreement](https://github.com/muelphil/smartclip/blob/main/LICENSE).
 
 To install Smartclip head to either the [Website](https://muelphil.github.io/smartclip/) or the [Releases Page of the Github Repository](https://github.com/muelphil/smartclip/releases) and download the latest installer.
-- Windows: [`smartclip-0.9.2-windows.exe`](https://github.com/muelphil/smartclip/releases/download/v0.9.2-beta/smartclip-0.9.2-windows.exe)
-- Linux: [`smartclip-0.9.2-linux-amd64.deb`](https://github.com/muelphil/smartclip/releases/download/v0.9.2-beta/smartclip-0.9.2-linux-amd64.deb)
-- MacOs: [`smartclip-0.9.2-macos.dmg`](https://github.com/muelphil/smartclip/releases/download/v0.9.2-beta/smartclip-0.9.2-macos.dmg)
+- Windows: [`smartclip-0.9.3-windows.exe`](https://github.com/muelphil/smartclip/releases/download/v0.9.3-beta/smartclip-0.9.3-windows.exe)
+- Linux: [`smartclip-0.9.3-linux-amd64.deb`](https://github.com/muelphil/smartclip/releases/download/v0.9.3-beta/smartclip-0.9.3-linux-amd64.deb)
+- MacOs: [`smartclip-0.9.3-macos.dmg`](https://github.com/muelphil/smartclip/releases/download/v0.9.3-beta/smartclip-0.9.3-macos.dmg)
 
 As of now the source code for Smartclip is not publicly available.
 
@@ -28,7 +28,7 @@ After clicking "Run anyway..." simply follow the instructions of the Installer.
 
 Please note that this tool will only work under non wayland display managers, like X11. To check if you are running on wayland type `echo $XDG_SESSION_TYPE` into your terminal, in case of running on wayland display manager this will yield `wayland`.
 
-The Reason is that wayland prohibits sending keystrokes across windows, which makes it impossible to send a paste event, which is necessary for pasting clipboard entries, translations, and emojis.
+The Reason is that wayland prohibits sending keystrokes across windows, which makes it impossible to send a paste events, which is necessary for pasting clipboard entries, translations, and emojis.
 
 For Ubuntu, right-click the `.deb` installer file and choose `Open with Software Install`. Depending on your operating system version, this may vary.
 

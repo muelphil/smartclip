@@ -16,3 +16,4 @@ enhances efficiency, making translation effortless and seamless.
     - use `Ctrl`+`Down/Up` to jump between categories
 - paste words instantly by pressing `Enter` on a selected word
 - "Did you mean..." for when typos happen
+- Select origin and target language via the select in the bottom right corner

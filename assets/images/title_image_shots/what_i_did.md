@@ -11,3 +11,5 @@ setInterval(() => {
     i = i+1;
 }, 2000)
 ``` 
+
+https://ezgif.com/maker/
