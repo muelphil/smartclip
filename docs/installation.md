@@ -8,9 +8,11 @@ nav_order: 1
 By downloading and installing Smartclip, you agree to the [Terms of Agreement](https://github.com/muelphil/smartclip/blob/main/LICENSE).
 
 To install Smartclip head to either the [Website](https://muelphil.github.io/smartclip/) or the [Releases Page of the Github Repository](https://github.com/muelphil/smartclip/releases) and download the latest installer.
-- Windows: [`smartclip-0.9.3-windows.exe`](https://github.com/muelphil/smartclip/releases/download/v0.9.3-beta/smartclip-0.9.3-windows.exe)
-- Linux: [`smartclip-0.9.3-linux-amd64.deb`](https://github.com/muelphil/smartclip/releases/download/v0.9.3-beta/smartclip-0.9.3-linux-amd64.deb)
-- MacOs: [`smartclip-0.9.3-macos.dmg`](https://github.com/muelphil/smartclip/releases/download/v0.9.3-beta/smartclip-0.9.3-macos.dmg)
+- Windows: [`smartclip-0.9.4-windows.exe`](https://github.com/muelphil/smartclip/releases/download/v0.9.4-beta/smartclip-0.9.4-windows.exe)
+- Linux: [`smartclip-0.9.4-linux-amd64.deb`](https://github.com/muelphil/smartclip/releases/download/v0.9.4-beta/smartclip-0.9.4-linux-amd64.deb)
+- MacOs: Discontinued, as I dont have access to a MacOs device to compile the app anymore
+
+[//]: # (- [`smartclip-0.9.4-macos.dmg`]&#40;https://github.com/muelphil/smartclip/releases/download/v0.9.4-beta/smartclip-0.9.4-macos.dmg&#41;)
 
 As of now the source code for Smartclip is not publicly available.
 

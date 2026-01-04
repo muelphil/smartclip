@@ -9,7 +9,7 @@ Smartclip is a versatile tool designed to streamline workflows by offering quick
 You can find the Documentation [on the Website](https://muelphil.github.io/smartclip/docs/installation.html)
 
 ## Beta
-Smartclip is currently in beta, Version 0.9.3 will be valid until 31/05/2025, I will extend the duration based on the feedback.
+Smartclip is currently in beta, Version 0.9.4.
 
 Smartclip is available for Linux (with restrictions, see section Linux), Window and MacOs.
 
@@ -20,9 +20,11 @@ I greatly appreciate any kind of feedback, feature requests and bug reports. To 
 By downloading and installing Smartclip, you agree to the [Terms of Agreement](https://github.com/muelphil/smartclip/blob/main/LICENSE).
 
 To install Smartclip head to either the [Website](https://muelphil.github.io/smartclip/) or the [Releases Page of the Github Repository](https://github.com/muelphil/smartclip/releases) and download the latest installer.
-- Windows: [`smartclip-0.9.3-windows.exe`](https://github.com/muelphil/smartclip/releases/download/v0.9.3-beta/smartclip-0.9.3-windows.exe)
-- Linux: [`smartclip-0.9.3-linux-amd64.deb`](https://github.com/muelphil/smartclip/releases/download/v0.9.3-beta/smartclip-0.9.3-linux-amd64.deb)
-- MacOs: [`smartclip-0.9.3-macos.dmg`](https://github.com/muelphil/smartclip/releases/download/v0.9.3-beta/smartclip-0.9.3-macos.dmg)
+- Windows: [`smartclip-0.9.4-windows.exe`](https://github.com/muelphil/smartclip/releases/download/v0.9.4-beta/smartclip-0.9.4-windows.exe)
+- Linux: [`smartclip-0.9.4-linux-amd64.deb`](https://github.com/muelphil/smartclip/releases/download/v0.9.4-beta/smartclip-0.9.4-linux-amd64.deb)
+- MacOs: The MacOs Version has been temporarily cancelled, as I don't have access to a MacOS Device to compile the app as of now.
+
+[//]: # (- [`smartclip-0.9.4-macos.dmg`]&#40;https://github.com/muelphil/smartclip/releases/download/v0.9.4-beta/smartclip-0.9.4-macos.dmg&#41;)
 
 As of now the source code for Smartclip is not publicly available.
 
